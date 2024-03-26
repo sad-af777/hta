@@ -1,1 +1,3 @@
 # hta
+
+executes calc.exe
